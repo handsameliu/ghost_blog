@@ -83,7 +83,7 @@ config = {
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
         // Change this to your Ghost blog's published URL.
-        url: 'http://ghost.mengxc.info',
+        url: 'http://blog.mengxc.info',
 
         // Example mail config
         // Visit http://support.ghost.org/mail for instructions
